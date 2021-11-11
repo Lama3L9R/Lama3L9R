@@ -22,16 +22,18 @@ Here are some ideas to get you started:
 #### 🔭 正在整
 
 
-- Projekt LSP >> 为了LSPLand项目所搞得
+- `Working` Projekt LSP >> 为了LSPLand项目所搞得
   - LSPlugin >> Minecraft Spigot 插件框架 [完工v1后开源]
     - LSEssentials >> Minecraft Spigot 常用功能插件
     - SetuAPI >> Minecraft Spigot 框架
   - lsp-yggdrasil >> Mojang yggdrasil service实现
   - lsp-webclient >> lsp-yggdrasil的前端实现
 
-- Project Gamble
-##### 有空再说
+- `Pending` Project Gamble
+>  一个CLI的虚拟赌场（禁止任何赌博行为，这个只是使用不可充值获得的虚拟货币进行娱乐）
 
+- `Pending` FMBlog 
+> 自己的博客系统
 
 #### 🌱 正在学
 
@@ -43,6 +45,13 @@ Here are some ideas to get you started:
 
 - Telegram: [`@qumolama`](https://t.me/qumolama)
 - Discord: `Lama3L9R#4650`
+
+#### 😄 发音
+> 对于 `Lama3L9R` 如果在中文中可以直接读出前半部分的英语发音`Lama`，后半部分直接读`三L九R`即可
+
+> 英语的话...直接叫Lama吧
+
+> 对于 `Qumolama.d` 其中 `Qu` 要发音成字母 `Q` 也就是 `Qmolama` 至于`.d`，直接忽略就好了，不用读  
 
 #### ⚡ 有趣的事实
 
