@@ -29,11 +29,14 @@ Here are some ideas to get you started:
   - lsp-yggdrasil >> Mojang yggdrasil service实现
   - lsp-webclient >> lsp-yggdrasil的前端实现
 
-- `Pending` Project Gamble
+- `Give up` Project Gamble
 >  一个CLI的虚拟赌场（禁止任何赌博行为，这个只是使用不可充值获得的虚拟货币进行娱乐）
 
-- `Pending` FMBlog 
-> 自己的博客系统
+- `High Pending` ShellForHuman
+>  
+
+- `Pending NeedNewName` LamaMain
+> 自己的网页，包含服务器信息、个人博客等
 
 #### 🌱 正在学
 
