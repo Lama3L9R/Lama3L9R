@@ -26,8 +26,8 @@ Here are some ideas to get you started:
   - LSPlugin >> Minecraft Spigot 插件框架 [完工v1后开源]
     - LSEssentials >> Minecraft Spigot 常用功能插件
     - SetuAPI >> Minecraft Spigot 框架
+    - 迁移HomeEntity至LSEssentials
   - lsp-yggdrasil >> Mojang yggdrasil service实现
-  - lsp-webclient >> lsp-yggdrasil的前端实现
 
 - `Give up` Project Gamble
 >  一个CLI的虚拟赌场（禁止任何赌博行为，这个只是使用不可充值获得的虚拟货币进行娱乐）
