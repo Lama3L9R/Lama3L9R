@@ -17,13 +17,19 @@ Here are some ideas to get you started:
 
 > 在创建这个README的时候Github给了一些提示，那么我就来按照提示来整
 > 在写的时候我感觉还是`Monospaced`字体好看，于是下面都是`monospaced`
+
 > 手机一看发现根本不行，还是换回去吧
+
+这里是Lama的Github! 2022年北京中考生(~~以后要是忘了更新了可以算一下~~)
++ 我的常用开发语言：Node.js(Javascript + Typescript) | Kotlin
++ 我的不常用开发语言：Java | Rust | C/C++ | SPACE_SNAKE(python)
++ 我手底下有仨域名：lama.icu | thelama.cn | lama3l9r.net（博客啥的我是懒得写了，以后慢慢做吧...）
 
 #### 🔭 正在整
 
 
 - `Working` Projekt LSP >> 为了LSPLand项目所搞得
-  - LSPlugin >> Minecraft Spigot 插件框架 [完工v1后开源]
+  - LSPlugin >> Minecraft Spigot 插件框架 [完工v1后开源~~(欸?? 我什么时候开源的???)~~]
     - LSEssentials >> Minecraft Spigot 常用功能插件
     - SetuAPI >> Minecraft Spigot 框架
     - 迁移HomeEntity至LSEssentials
@@ -46,8 +52,8 @@ Here are some ideas to get you started:
 
 #### 📫 联系方式
 
-- Telegram: [`@qumolama`](https://t.me/qumolama)
-- Discord: `Lama3L9R#4650`
+- Telegram: [`@qumolama`](https://t.me/qumolama) *(长期活跃于群：.DP7)*
+- Discord: `Lama3L9R#4650` *(不长期活跃)*
 
 #### 😄 发音
 > 对于 `Lama3L9R` 如果在中文中可以直接读出前半部分的英语发音`Lama`，后半部分直接读`三L九R`即可
