@@ -27,22 +27,7 @@ Here are some ideas to get you started:
 
 #### 🔭 正在整
 
-
-- `Working` Projekt LSP >> 为了LSPLand项目所搞得
-  - LSPlugin >> Minecraft Spigot 插件框架 [完工v1后开源~~(欸?? 我什么时候开源的???)~~]
-    - LSEssentials >> Minecraft Spigot 常用功能插件
-    - SetuAPI >> Minecraft Spigot 框架
-    - 迁移HomeEntity至LSEssentials
-  - lsp-yggdrasil >> Mojang yggdrasil service实现
-
-- `Give up` Project Gamble
->  一个CLI的虚拟赌场（禁止任何赌博行为，这个只是使用不可充值获得的虚拟货币进行娱乐）
-
-- `High Pending` ShellForHuman
->  
-
-- `Pending NeedNewName` LamaMain
-> 自己的网页，包含服务器信息、个人博客等
+- `Working` `OpenSource Later` Divergence meter
 
 #### 🌱 正在学
 
