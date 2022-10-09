@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 > 手机一看发现根本不行，还是换回去吧
 
-这里是Lama的Github! 2022年北京中考生(~~以后要是忘了更新了可以算一下~~)
+这里是Lama的Github! 2025年北京高考考生(~~以后要是忘了更新了可以算一下~~)
 + 我的常用开发语言：Node.js(Javascript + Typescript) | Kotlin
 + 我的不常用开发语言：Java | Rust | C/C++ | SPACE_SNAKE(python)
 + 我手底下有仨域名：lama.icu | thelama.cn | lama3l9r.net（博客啥的我是懒得写了，以后慢慢做吧...）
