@@ -8,10 +8,9 @@
 
 + 我会说的语言且熟悉的语言：`English` `Java` `Kotlin` `Javascript` `Typescript`
 + 我会说但却是不熟悉的语言：`Chinese` `CEmbedded` `RustEmbedded` `CSharp`
-+ 已经不说了的语言：`Java` `Kotlin`
-
++ 常用的语言：`Typescript`
 + 我会的框架：`fastify` `React`
-+ 曾经会但已忘却的框架：`Spring`
+
 
 我讨厌的一些东西：C++（但我喜欢C），青豌豆（吃了会严重的反胃）
 
