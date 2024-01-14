@@ -1,6 +1,6 @@
 <h2 align="center"> 这里是 <code>lamadaemon</code> </h1>
 
-这里是 <code>lamadaemon (Aka Qumolama.d Lama3L9R)</code> 的Github! 平时喜欢搞点技术方面的。写写代码，戳戳电阻，抱抱电感，有空再包容一下 ❤️
+这里是 <code>lamadaemon (Aka Qumolama.d Lama3L9R)</code> 的Github! 平时喜欢搞点技术方面的。写写代码，戳戳电阻，抱抱电感，多多包容 ❤️
 
 **个人觉得，我的代码还是相当的规范整齐的，因此就不需要代码质量检查了，我给我自己一个 A+**
 
