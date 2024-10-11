@@ -2,17 +2,15 @@
 
 这里是 <code>lamadaemon (Aka Qumolama.d Lama3L9R)</code> 的Github! 平时喜欢搞点技术方面的。写写代码，戳戳电阻，抱抱电感，多多包容 ❤️
 
-**个人觉得，我的代码还是相当的规范整齐的，因此就不需要代码质量检查了，我给我自己一个 A+**
-
 ## 我的技术栈
 
-+ 我会说的语言且熟悉的语言：`English` `Java` `Kotlin` `Javascript` `Typescript`
-+ 我会说但却是不熟悉的语言：`Chinese` `CEmbedded` `RustEmbedded` `CSharp`
-+ 常用的语言：`Typescript`
-+ 我会的框架：`fastify` `React`
++ 我会说的语言且熟悉的语言：`English` `Java` `Kotlin` `Javascript` `Typescript` `C` `ARMv8 Assembly`
++ 我会说但却是不熟悉的语言：`Chinese` `CSharp` `Rust` `Dart`
++ 常用的语言：`Typescript` `C`
++ 我会的框架：`fastify` `React` `Flutter`
 
 
-我讨厌的一些东西：C++（但我喜欢C），青豌豆（吃了会严重的反胃）
+我讨厌的一些东西：C++（但我喜欢C），Python（不优雅），青豌豆（吃了会严重的反胃）
 
 ## 我的一些项目（lamadaemon是我的小号）
 
