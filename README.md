@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/Lama3L9R/Lama3L9R/blob/master/bannersticker.png?raw=true" />
+</p>
+
 <h2 align="center"> 这里是 <code>lamadaemon</code> </h1>
 
 这里是 <code>lamadaemon (Aka Qumolama.d Lama3L9R)</code> 的Github! 平时喜欢搞点技术方面的。写写代码，戳戳电阻，抱抱电感，多多包容 ❤️
