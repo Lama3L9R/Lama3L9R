@@ -6,8 +6,8 @@
 
 ## 我的技术栈
 
-+ 我会说的语言且熟悉的语言：`English` `Java` `Kotlin` `Javascript` `Typescript` `C` `ARMv8 Assembly`
-+ 我会说但却是不熟悉的语言：`Chinese` `CSharp` `Rust` `Dart`
++ 我会说的语言且熟悉的语言：`English` `Java` `Kotlin` `Javascript` `Typescript` `C` `ARMv8 Assembly` `Rust`
++ 我会说但却是不熟悉的语言：`Chinese` `CSharp` `Dart`
 + 常用的语言：`Typescript` `C`
 + 我会的框架：`fastify` `React` `Flutter`
 
@@ -18,17 +18,14 @@
 
 + [最伟大的 Divergence Meter](https://github.com/Lama3L9R/divergence-meter)
     - 这不是命运石之门的选择，是本大爷的选择！
-    - [这个项目](https://github.com/Lama3L9R/divergence-meter-firmware) 是该项目第二版设计的固件
-    - 新版本固件基于 rust 编写，由于代码太烂（不熟悉rust），暂时不公开，等我有空整理好再说
 + [phigros-save-manager](https://github.com/lamadaemon/phigros-save-manager)
     - 一个简单的 Phigros 云存档管理工具，自带 CLI 工具，已上传 npm
 + [tg-bote 伟大的TG波特框架](https://github.com/Lama3L9R/tg-bote)
     - A plugin-based telegram bot framework
-    - 由于我 TG 号又双叒叕被ban了，因此暂停更新
-    - 目前正在开发一个类似的框架，但是在 Discord 平台（DC协议好复杂）
+    - 由于我 TG 号又双叒叕被 ban 了，因此暂停更新
 + [noie.js 强力去 IE](https://github.com/Lama3L9R/noie.js)
     - 不会吧，不会真的还有人认为 Chrome 40 不是 IE 吧
     - 拒绝兼容老浏览器，从引入 noie.js 坐起
-
-
++ [PublicReleases](https://github.com/Lama3L9R/PublicReleases)
+    - PIRACY IS BAD! 
 
